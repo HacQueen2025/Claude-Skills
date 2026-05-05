@@ -1,7 +1,7 @@
 # 🧠 custom-claude-skills
 
 A growing collection of Claude skills that unlock expert-level performance across
-engineering, debugging, AI tools, content creation, and more.
+engineering, debugging, AI tools, content creation, and more!
 
 **Globally applicable. Any stack. Any language. Continuously expanding.**
 
