@@ -1,6 +1,6 @@
 # 🧠 custom-claude-skills
 
-A growing collection of custom Claude skills that unlock expert-level performance across
+A growing collection of Claude skills that unlock expert-level performance across
 engineering, debugging, AI tools, content creation, and more.
 
 **Globally applicable. Any stack. Any language. Continuously expanding.**
@@ -51,7 +51,7 @@ Have an idea for a skill? Open an issue or submit a PR.
 ## Repo Structure
 
 ```
-custom-claude-skills/
+Claude-Skills/
 ├── README.md
 ├── saas-builder/
 │   ├── SKILL.md
